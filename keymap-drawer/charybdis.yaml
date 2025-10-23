@@ -34,8 +34,8 @@ layers:
   - {t: '$$mdi:keyboard-esc$$', h: Media}
   - {t: '$$mdi:keyboard-tab$$', h: Navigation}
   - {t: Numeral/Function, h: sticky}
-  - $$mdi:keyboard-space$$
   - {t: Symbol, h: sticky}
+  - $$mdi:keyboard-space$$
   Numeral/Function:
   - {t: ▽, type: trans}
   - F7
@@ -106,8 +106,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   Navigation:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
