@@ -23,13 +23,6 @@
     hold-trigger-on-release;
 };
 
-&trackball {
-    automouse-layer = <5>;
-    automouse-layer-timeout-ms = <1500>;
-    scroll-layers = <6>;
-    automouse-layer-threshold = <10>;
-};
-
 / {
     chosen { zmk,matrix_transform = &five_column_transform; };
 
