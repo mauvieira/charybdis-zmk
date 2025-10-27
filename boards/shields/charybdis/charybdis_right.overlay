@@ -61,8 +61,6 @@
         scroll-layers = <6>;
         snipe-layers = <7>;
         automouse-layer = <5>;
-        automouse-layer-timeout-ms = <1500>;
-        automouse-layer-threshold = <10>;
     };
 };
 
@@ -70,6 +68,5 @@
   trackball_listener {
     compatible = "zmk,input-listener";
     device = <&trackball>;
-
   };
 };
