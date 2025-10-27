@@ -198,7 +198,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - $$mdi:apple-keyboard-shift$$
-  - LCLK
+  - '&mkp LCLK'
   - '&mkp RCLK'
   - '&mkp MCLK'
   - {t: ▽, type: trans}
@@ -208,8 +208,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: Sniper, h: toggle}
-  - {t: Scroll, h: toggle}
+  - Sniper
+  - Scroll
   - {t: ▽, type: trans}
   - '&mkp LCLK'
   - '&mkp RCLK'
