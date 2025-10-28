@@ -116,7 +116,7 @@
             bindings = <
   &trans    &trans   &trans    &trans     &trans       &trans     &trans     &trans    &trans    &trans
   &trans    &trans   &trans    &trans     &trans       &trans     &trans     &trans    &trans    &trans
-  &trans    &trans   &trans    &trans     &trans       &trans     &trans      &lt SNI trans   &lt SCR trans    &trans
+  &trans    &trans   &trans    &trans     &trans       &trans     &trans      &lt SNI COMMA   &lt SCR DOT    &trans
                       &mkp LCLK  &mkp RCLK  &mkp MCLK    &trans  &trans
             >;
         };
