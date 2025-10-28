@@ -208,8 +208,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: trans, h: Sniper}
-  - {t: trans, h: Scroll}
+  - {t: ',', h: Sniper}
+  - {t: ., h: Scroll}
   - {t: ▽, type: trans}
   - '&mkp LCLK'
   - '&mkp RCLK'
